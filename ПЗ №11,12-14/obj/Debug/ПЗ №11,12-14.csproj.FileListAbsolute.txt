@@ -1,0 +1,25 @@
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\bin\Debug\ПЗ №11,12-14.exe.config
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\bin\Debug\ПЗ №11,12-14.exe
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\bin\Debug\ПЗ №11,12-14.pdb
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.csproj.AssemblyReference.cache
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.csproj.SuggestedBindingRedirects.cache
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ__11_12_14.Form1.resources
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ__11_12_14.Properties.Resources.resources
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.csproj.GenerateResource.cache
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.csproj.CoreCompileInputs.cache
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.exe
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.pdb
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ__11_12_14.Form2.resources
+C:\Users\IVK_2023\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ__11_12_14.Form3.resources
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\bin\Debug\ПЗ №11,12-14.exe.config
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\bin\Debug\ПЗ №11,12-14.exe
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\bin\Debug\ПЗ №11,12-14.pdb
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.csproj.AssemblyReference.cache
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ__11_12_14.Form1.resources
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ__11_12_14.Form2.resources
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ__11_12_14.Form3.resources
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ__11_12_14.Properties.Resources.resources
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.csproj.GenerateResource.cache
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.csproj.CoreCompileInputs.cache
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.exe
+C:\Users\Aliot Eternos\source\repos\ПЗ №11,12-14\obj\Debug\ПЗ №11,12-14.pdb
